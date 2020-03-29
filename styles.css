@@ -102,6 +102,16 @@ header .profile-image:hover {
   border-color: #F1B60B;
 }
 
+.subheading {
+  font-style: italic;
+}
+
+.hobby-image {
+  width: 400px;
+  height: 350px;
+  border: 3px solid #F1B60B;
+}
+
 ul.skills {
   padding: 0;
   text-align: center;
