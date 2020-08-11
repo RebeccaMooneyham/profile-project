@@ -1,2 +1,3 @@
 # profile-project
- Profile project for Techdegree program
+Treehouse Techdegree project: Personal Profile Page
+Created a basic personal profile website using HTML5 semantic tags and CSS transitions.
